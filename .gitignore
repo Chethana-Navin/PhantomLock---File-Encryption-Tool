@@ -1,0 +1,46 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Log files
+logs/
+*.log
+
+# Generated encryption keys
+keys/key.key
+keys/master.hash
+
+# Encrypted sample files
+*.enc
+*.sha256
+
+# Test samples (optional)
+samples/
+
+# PyInstaller
+*.spec
+
+# Environment variables
+.env
