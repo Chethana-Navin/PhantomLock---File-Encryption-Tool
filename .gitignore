@@ -31,6 +31,7 @@ logs/
 # Generated encryption keys
 keys/key.key
 keys/master.hash
+key.key
 
 # Encrypted sample files
 *.enc
