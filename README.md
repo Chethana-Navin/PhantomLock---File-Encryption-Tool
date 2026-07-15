@@ -85,7 +85,7 @@ PhantomLock/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PhantomLock.git
+git clone https://github.com/Chethana-Navin/PhantomLock---File-Encryption-Tool.git
 ```
 
 Move into the project
